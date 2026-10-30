@@ -6,8 +6,8 @@
  const held=new Map(),timers=new Map(),visible=new Set();
  const works=[
   ['ENGINEERING FOUNDATION','I connected the pieces of a critical response.','A multimodal incident pipeline, retrieved operational context, coordinated response roles, independent checks and an audit trail.',['4 input streams','5 layers','10 response roles'],'#architecture','Explore the architecture'],
-  ['SIMULATION-BACKED PROTOTYPE','I made the system observable—and testable.','A modelled substation with evolving equipment state, independent protection, fault scenarios, evidence gaps and visible response consequences.',['3D environment','Stateful scenarios','What-if comparison'],'#publication-status','Enter the Digital Twin Lab'],
-  ['EXPERIMENTAL INSTRUMENT','I built a workspace for the human–AI questions.','A scenario dashboard and three study modules prepare comparisons of evidence presentation, reliance under pressure and adaptive decision authority.',['Scenario workspace','Decision records','3 planned studies'],'#publication-status','Open the Human–AI Lab'],
+  ['SIMULATION-BACKED PROTOTYPE','I made the system observable—and testable.','A modelled substation with evolving equipment state, independent protection, fault scenarios, evidence gaps and visible response consequences.',['3D environment','Stateful scenarios','What-if comparison'],'twin/','Enter the Digital Twin Lab'],
+  ['EXPERIMENTAL INSTRUMENT','I built a workspace for the human–AI questions.','A scenario dashboard and three study modules prepare comparisons of evidence presentation, reliance under pressure and adaptive decision authority.',['Scenario workspace','Decision records','3 planned studies'],'lab.html','Open the Human–AI Lab'],
   ['RESEARCH IN PROGRESS','I turned engineering questions into a research programme.','A research proposal, defined study designs and a first manuscript draft connect the prototype to measurable questions about assurance, evidence and oversight.',['Proposal prepared','Study designs','Manuscript draft'],'#research','Explore the research questions']
  ];
  const phases=[
